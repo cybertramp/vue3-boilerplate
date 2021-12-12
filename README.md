@@ -5,6 +5,8 @@
 This template is a framework for quickly creating vue3-based projects.
 I have collected templates that are commonly used.
 
+![](./screenshot.png)
+
 It contains the following items.
 - [Vue3(ts)](https://v3.vuejs.org/guide/installation.html)
 - [Vite](https://v3.vuejs.org/guide/installation.html)
