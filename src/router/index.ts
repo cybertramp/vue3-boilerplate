@@ -2,7 +2,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import Home from '/src/components/Home.vue'
 
 const routes = [
-    { path: '/', nane:'Home', component: Home },
+    { path: '/', name:'Home', component: Home },
 ]
 
 const router = createRouter({
