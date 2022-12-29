@@ -8,15 +8,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^1.2.1",
     "vue": "^3.2.23",
     "vue-router": "4",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^1.10.2",
+    "@vitejs/plugin-vue": "^4.0.0",
     "typescript": "^4.4.4",
-    "vite": "^2.7.0",
-    "vue-tsc": "^0.28.10"
+    "vite": "^4.0.3",
+    "vue-tsc": "^1.0.18"
   }
 }

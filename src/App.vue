@@ -6,7 +6,7 @@ import Home from './components/Home.vue'
 
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <Home msg="Hello Vue 3 + TypeScript + Vite + Vue3-Router + Vue3-Vuex + axios" />
+  <Home msg="Vue 3 + TypeScript + Vite + Vue3-Router + Vue3-Vuex + axios" />
 </template>
 
 <style>

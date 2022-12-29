@@ -17,7 +17,7 @@ const count = ref(0)
     <a href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>
   </p>
 
-  <p>See <code>README.md</code> for more information.</p>
+  <p>See <code><a class="a-none-deco" href="https://github.com/cybertramp/vue3-boilerplate#readme">README.md</a></code> for more information.</p>
 
   <p>
     <a href="https://vitejs.dev/guide/features.html" target="_blank">
@@ -39,6 +39,11 @@ const count = ref(0)
 </template>
 
 <style scoped>
+.a-none-deco {
+  text-decoration:none !important;
+  color: black;
+}
+
 a {
   color: #42b983;
 }
